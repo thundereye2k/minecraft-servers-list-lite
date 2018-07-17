@@ -37,11 +37,10 @@ You can now login with your admin account( Username: admin ; Password: admin ) b
 ## Contact
 Some of my links..
 
-* **Skype:** gfabruno@gmail.com
-* **Email:** gfabruno@gmail.com
-* **Website:** GrohsFabian.com
-* **Twitter:** @GrohsFabian
-* **My envato portfolio:** [grohsfabian/portfolio](https://codecanyon.net/user/grohsfabian/portfolio)
+* **Email:** gfabruno@gmail.com 
+* **Website:** [GrohsFabian.com](https://grohsfabian.com)
+* **Twitter:** [@GrohsFabian](https://twitter.com/grohsfabian)
+* **My envato portfolio:** [altumcode/portfolio](https://codecanyon.net/user/altumcode/portfolio)
 * **Instagram Dev Page:** [@motivational.coder](https://instagram.com/motivational.coder)
 
 ## Extra
